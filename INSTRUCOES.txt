@@ -1,0 +1,17 @@
+* INSTALAR NODE.JS
+* INSTALAR NPM (VEM DENTRO DO NODE)
+* INSTALAR ANGULAR CLI (CMD)
+
+
+1 - Navegar para pasta que deseja instalar o projeto:
+	cd C:/Caminho/Caminho
+
+2 - Adicionar Projeto pelo CMD
+	ng new NomeProjeto
+
+3 - EXECUTAR PROJETO
+ 	*cd NomeProjeto
+	*ng serve
+
+Como funcina a aplicação Angular
+https://webpack.js.org/
